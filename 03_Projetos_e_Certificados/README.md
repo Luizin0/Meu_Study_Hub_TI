@@ -1,12 +1,12 @@
 # 03 — Projetos e Certificados
 
-Esta pasta será utilizada para reunir projetos acadêmicos, projetos pessoais relacionados à tecnologia e certificados obtidos durante a formação.
+Esta área será usada como parte do portfólio acadêmico e profissional.
 
-## Organização sugerida
+## Organização prevista
 
-- projetos acadêmicos;
-- projetos pessoais;
-- certificados de cursos;
-- eventos e atividades de extensão.
+- projetos desenvolvidos durante a graduação;
+- projetos pessoais relacionados à tecnologia;
+- certificados de cursos e eventos;
+- documentação e links para demonstrações.
 
-Novos arquivos serão adicionados conforme o portfólio for sendo construído.
+Cada projeto deverá apresentar objetivo, tecnologias utilizadas, principais resultados e instruções de acesso ou execução. Os certificados serão adicionados com nomes que identifiquem claramente o curso ou evento.

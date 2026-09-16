@@ -1,6 +1,6 @@
 # 01 — Apresentação e Perfil
 
-Esta pasta reúne as informações de apresentação pessoal e acadêmica utilizadas no Study Hub.
+Esta pasta reúne minha apresentação acadêmica e profissional.
 
 ## Conteúdo
 
@@ -9,5 +9,5 @@ Esta pasta reúne as informações de apresentação pessoal e acadêmica utiliz
 
 ## Links profissionais
 
-- LinkedIn: https://www.linkedin.com/in/luiz-e-6b6884358/
-- GitHub: https://github.com/Luizin0
+- [GitHub](https://github.com/Luizin0)
+- [LinkedIn](https://www.linkedin.com/in/luiz-e-6b6884358/)

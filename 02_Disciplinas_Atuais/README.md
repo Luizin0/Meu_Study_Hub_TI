@@ -1,10 +1,15 @@
 # 02 — Disciplinas Atuais
 
-Esta pasta concentra as disciplinas acompanhadas no Study Hub neste semestre.
+Esta área organiza os conteúdos do 8º semestre por disciplina. As atividades avaliativas ficam separadas das anotações, dos resumos e dos exercícios de revisão.
 
-| Disciplina | Organização |
-|---|---|
-| [Bootcamp I](Bootcamp_I/) | Atividades, entregas, anotações e resumos |
-| [Banco de Dados II](Banco_de_Dados_II/) | Atividades, entregas, anotações e resumos |
+## Disciplinas
 
-Cada disciplina possui uma estrutura própria para separar os conteúdos produzidos ao longo do semestre.
+- [Bootcamp I](Bootcamp_I/)
+- [Banco de Dados II](Banco_de_Dados_II/)
+
+## Padrão de organização
+
+Cada disciplina possui:
+
+- `Atividades_e_Entregas`: trabalhos, exercícios avaliativos e arquivos finais;
+- `Anotacoes_e_Resumos`: materiais de estudo, revisões e registros de aprendizagem.

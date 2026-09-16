@@ -1,22 +1,24 @@
 # Perfil
 
-**Nome:** Luiz Eduardo  
-**Curso:** Ciência da Computação  
-**Semestre:** 8º semestre  
+## Dados acadêmicos
 
-## Apresentação
-
-Sou estudante de Ciência da Computação e tenho interesse em ampliar meus conhecimentos em desenvolvimento de sistemas, banco de dados, programação, redes e infraestrutura. Utilizo este Study Hub para manter minha trajetória acadêmica organizada e registrar atividades e projetos importantes do curso.
+- **Nome:** Luiz Eduardo de Sousa Silva Andrade
+- **Curso:** Ciência da Computação
+- **Semestre:** 8º semestre
+- **Turno:** Matutino
+- **Campus:** Asa Norte
 
 ## Interesses
 
-- Banco de Dados
-- Desenvolvimento de Sistemas
-- Programação
-- Redes e Infraestrutura
-- Tecnologia e Hardware
+- **Banco de dados:** aprofundar conhecimentos em modelagem, SQL, administração e segurança de dados.
+- **Desenvolvimento de sistemas:** aplicar programação na construção de soluções úteis e bem documentadas.
+- **Redes e infraestrutura:** compreender a comunicação, a organização e a disponibilidade dos sistemas.
+
+## Objetivo
+
+Organizar evidências da minha evolução acadêmica e desenvolver um portfólio técnico claro, reunindo projetos, atividades, resumos e certificados.
 
 ## Links
 
-- LinkedIn: https://www.linkedin.com/in/luiz-e-6b6884358/
-- GitHub: https://github.com/Luizin0
+- [GitHub](https://github.com/Luizin0)
+- [LinkedIn](https://www.linkedin.com/in/luiz-e-6b6884358/)

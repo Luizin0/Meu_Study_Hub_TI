@@ -1,10 +1,11 @@
 # Atividades e Entregas — Banco de Dados II
 
-Pasta reservada para atividades, exercícios, trabalhos e scripts desenvolvidos na disciplina **Banco de Dados II**.
+Esta pasta será usada para armazenar:
 
-Exemplos de conteúdos que poderão ser organizados aqui:
-
-- exercícios de modelagem;
+- atividades avaliativas;
+- modelos de dados;
 - scripts SQL;
-- atividades de DDL, DML e DQL;
-- trabalhos avaliativos.
+- documentação de exercícios;
+- versões finais das entregas.
+
+Os arquivos serão adicionados conforme as atividades da disciplina forem concluídas.
