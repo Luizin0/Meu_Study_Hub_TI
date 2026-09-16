@@ -1,7 +1,7 @@
-# Biografia Acadêmica
+# Biografia acadêmica
 
-Atualmente curso Ciência da Computação e estou no 8º semestre. Ao longo da graduação, venho desenvolvendo conhecimentos em programação, desenvolvimento de sistemas, banco de dados, redes, infraestrutura e outras áreas da computação.
+Sou estudante de Ciência da Computação, atualmente no 8º semestre. Minha formação inclui programação, banco de dados e redes de computadores. Também estudo arquitetura de computadores e desenvolvimento de sistemas.
 
-Meu objetivo com este Study Hub é reunir em um único local os materiais mais importantes da minha formação, acompanhando minha evolução acadêmica e criando um portfólio que possa ser consultado futuramente.
+Minha motivação na área de tecnologia é entender problemas e construir soluções úteis, aproximando a teoria das atividades práticas realizadas durante a graduação.
 
-A organização por disciplinas, atividades, anotações, projetos e certificados facilita o acompanhamento do semestre e ajuda a manter um histórico claro do que foi desenvolvido durante o curso.
+Com o Study Hub, pretendo organizar meus estudos, registrar minha evolução e desenvolver uma base técnica sólida. O repositório também funciona como um portfólio claro dos conhecimentos adquiridos e dos trabalhos realizados ao longo da minha formação.
